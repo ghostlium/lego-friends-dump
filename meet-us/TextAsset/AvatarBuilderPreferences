@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<AvatarBuilderPreferences>
+	<AppVersion>1.0.0.1</AppVersion>
+	<Podium>
+		<ShowRoomPosition>0,-2.235,0.141</ShowRoomPosition>
+		<BuildRoomPosition>0,-1.877,-0.077</BuildRoomPosition>
+	</Podium>
+	
+	<AvatarCamera>
+		<ShowRoomYOffset>1.1</ShowRoomYOffset>
+		<BuildRoomYOffset>0.76</BuildRoomYOffset>
+		<DefaultAngleXZ>180</DefaultAngleXZ>
+		<DefaultAngleXY>0</DefaultAngleXY>
+		<InterimSpanAngle>13.75</InterimSpanAngle>
+		<NormalizedBlockCameraInputY>0.746</NormalizedBlockCameraInputY>
+		<Speed>7</Speed>
+		<ClampedMinMaxXYAngle>20</ClampedMinMaxXYAngle>
+	</AvatarCamera>
+	
+	<SnapshotCamera>
+		<RenderTargetWidth>512</RenderTargetWidth>
+		<RenderTargetHeight>512</RenderTargetHeight>
+	</SnapshotCamera>
+	
+	<AnimatedAvatarConstruct>
+		<Position>0,-2.16,0</Position>
+		<RotationEuler>0,175,0</RotationEuler>
+	</AnimatedAvatarConstruct>
+	
+	<Localization>
+		<GUI>
+			<en-gb>
+				<LogInButton>LOG IN</LogInButton>
+				<DoneButton>DONE</DoneButton>
+				<BackButton>BACK</BackButton>
+				<SignOutButton>SIGN OUT</SignOutButton>
+			</en-gb>
+			<en-us>
+				<LogInButton>LOG IN</LogInButton>
+				<DoneButton>DONE</DoneButton>
+				<BackButton>BACK</BackButton>
+				<SignOutButton>SIGN OUT</SignOutButton>
+			</en-us>
+			<da-dk>
+				<LogInButton>LOG PÅ</LogInButton>
+				<DoneButton>AFSLUT</DoneButton>
+				<BackButton>TILBAGE</BackButton>
+				<SignOutButton>LOG AF</SignOutButton>
+			</da-dk>
+			<nb-no>
+				<LogInButton>LOGG INN</LogInButton>
+				<DoneButton>FULLFØR</DoneButton>
+				<BackButton>TILBAKE</BackButton>
+				<SignOutButton>LOGG UT</SignOutButton>
+			</nb-no>
+			<sv-se>
+				<LogInButton>LOGGA IN</LogInButton>
+				<DoneButton>SLUTFÖR</DoneButton>
+				<BackButton>TILLBAKA</BackButton>
+				<SignOutButton>LOGGA UT</SignOutButton>
+			</sv-se>
+			<fi-fi>
+				<LogInButton>AKIRJAUDU SISN</LogInButton>
+				<DoneButton>VALMIS</DoneButton>
+				<BackButton>TAKAISIN</BackButton>
+				<SignOutButton>KIRJAUDU ULOS</SignOutButton>
+			</fi-fi>
+			<nl-nl>
+				<LogInButton>INLOGGEN</LogInButton>
+				<DoneButton>AFSLUITEN</DoneButton>
+				<BackButton>TERUG</BackButton>
+				<SignOutButton>UITLOGGEN</SignOutButton>
+			</nl-nl>
+			<nl-be>
+				<LogInButton>INLOGGEN</LogInButton>
+				<DoneButton>AFSLUITEN</DoneButton>
+				<BackButton>TERUG</BackButton>
+				<SignOutButton>UITLOGGEN</SignOutButton>
+			</nl-be>
+			<fr-fr>
+				<LogInButton>CONNECTE-TOI</LogInButton>
+				<DoneButton>ARRIVÉE</DoneButton>
+				<BackButton>RETOUR</BackButton>
+				<SignOutButton>DÉCONNEXION</SignOutButton>
+			</fr-fr>
+			<fr-be>
+				<LogInButton>CONNECTE-TOI</LogInButton>
+				<DoneButton>ARRIVÉE</DoneButton>
+				<BackButton>RETOUR</BackButton>
+				<SignOutButton>DÉCONNEXION</SignOutButton>
+			</fr-be>
+			<de-de>
+				<LogInButton>ANMELDEN</LogInButton>
+				<DoneButton>FERTIGSTELLEN</DoneButton>
+				<BackButton>ZURÜCK</BackButton>
+				<SignOutButton>ABMELDEN</SignOutButton>
+			</de-de>
+			<de-aus>
+				<LogInButton>ANMELDEN</LogInButton>
+				<DoneButton>FERTIGSTELLEN</DoneButton>
+				<BackButton>ZURÜCK</BackButton>
+				<SignOutButton>ABMELDEN</SignOutButton>
+			</de-aus>
+			<de-sch>
+					<LogInButton>ANMELDEN</LogInButton>
+					<DoneButton>FERTIGSTELLEN</DoneButton>
+					<BackButton>ZURÜCK</BackButton>
+					<SignOutButton>ABMELDEN</SignOutButton>
+			</de-sch>
+		</GUI>
+	</Localization>
+</AvatarBuilderPreferences>

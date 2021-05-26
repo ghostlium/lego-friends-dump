@@ -1,0 +1,79 @@
+{
+    "configuration": {
+        "@contentlanguage": "ro-RO",
+        "killswitch": "0",
+        "legotracking": "0",
+        "litetracking": "",
+        "minimumversion": "0.0.1",
+        "notracking": "",
+        "platform": "ios",
+        "tracking": "1",
+        "trackingsampling": "",
+        "@name": "BrickBird",
+        "@version": "1",
+        "experience": "brickbird",
+        "endpoints": {
+            "productregistrationservice": "https://productregistration.services.lego.com/",
+            "mentioningservice": "https://mentioning.services.lego.com/",
+            "moderationgateway": "https://moderationgateway.services.lego.com/",
+            "appstateservice": "https://appstate.services.lego.com/",
+            "avatarservice": "https://avatarinventory.services.lego.com/",
+            "boostservice": "https://boostsharing.services.lego.com/api/v1/code",
+            "galleryservice": "https://gallery.services.lego.com/",
+            "slingshotservice": "https://services.slingshot.lego.com/",
+            "trackingservice": "https://apptracking.services.lego.com/",
+            "leaderboards": "https://leaderboardsv2.services.lego.com/",
+            "vpcservice": "https://vpc.lego.com/",
+            "friendsservice": "https://friends.services.lego.com/",
+            "gameeventsservice": "https://gameevents.gallery.lego.com/",
+            "likeservice": "https://likes.services.lego.com/",
+            "rewardsservice": "https://rewards.services.lego.com/",
+            "videoservice": "https://video.services.lego.com/"
+        },
+        "customvalues": {
+            "key_test": "value_test",
+            "legoidclientid_qa": "cf6a5272-1d02-4759-9e54-6302a95f387d",
+            "legoidlegacy": "-",
+            "legotrackingenabledoverride": "1",
+            "searchkey": "UKv5cJOTxIa7NkycMtIV97VfBZEPHn66oKHblSF5",
+            "legoidclientid": "460910d7-3581-49a6-b1a7-37a70e87a327"
+        },
+        "commonconfigurations": {
+            "privacypolicy": {
+                "endpoints": {
+                    "cookiepolicy": "http://lego.com/ro-ro/go/7/cookie",
+                    "privacypolicy": "http://lego.com/ro-ro/go/7/privacy"
+                }
+            },
+            "appdialogue": {
+                "customvalues": {
+                    "killswitchtext": "This app is no longer being maintained by The LEGO Group. Please delete it from your device.",
+                    "minimumversiontext": "New features have been added to this app. Please upgrade your app through your store.",
+                    "ok": "ok",
+                    "warning": "warning"
+                }
+            },
+            "legoid": {
+                "endpoints": {
+                    "legoidconfiguration": "https://account2.lego.com/ro-ro/services/account/apiconfigservice.ashx",
+                    "legoiddeletedaccountsfeed": "https://account2.lego.com/account/deletedusers/feed",
+                    "legoidmyfriends": "https://www.us.lego.com/ro-ro/myfriends",
+                    "legoidmyfriendswebpage": "https://www.us.lego.com/ro-ro/myfriends?context=app",
+                    "legoidtoken": "https://account2.lego.com/account/v1/partnertoken"
+                }
+            },
+            "leaderboard": {
+                "endpoints": {
+                    "friendsservice": "https://friends.services.lego.com/",
+                    "leaderboardservice": "https://leaderboards.services.lego.com/"
+                }
+            },
+            "legoid3": {
+                "endpoints": {
+                    "openid-configuration": "https://identity.lego.com/.well-known/openid-configuration",
+                    "url-configuration": "https://identity.lego.com/api/v1/configuration/urls"
+                }
+            }
+        }
+    }
+}
