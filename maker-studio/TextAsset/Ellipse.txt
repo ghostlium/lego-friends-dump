@@ -1,0 +1,1 @@
+{"backgroundid":"Color_26","backgroundx":"9","backgroundy":"61","shape":"FreeformShapes/Ellipse","characters":[],"stickers":[],"borderid":"LFPM_Freeform_Border_1","bordercolor":"0.89,0.03,0.55"}

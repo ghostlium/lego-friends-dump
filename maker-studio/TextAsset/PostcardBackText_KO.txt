@@ -1,0 +1,1 @@
+[{"preview":"따뜻한포옹을너에게!","content":"따뜻한포옹을너에게!"},{"preview":"하트레이크시티에잘왔어!","content":"하트레이크시티에잘왔어!"},{"preview":"좋은시간보내!","content":"좋은시간보내!"},{"preview":"보고싶어!","content":"보고싶어!"},{"preview":"태양아래서재미있게!","content":"태양아래서재미있게!"},{"preview":"즐거운휴가","content":"즐거운휴가"},{"preview":"네가함께있다면!","content":"네가함께있다면!"}]

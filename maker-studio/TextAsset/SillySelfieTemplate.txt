@@ -1,0 +1,1 @@
+{"eyes":"blue","lefteyetransform":"-0.92,-0.22","righteyetransform":"0.92,-0.22","mouth":"mouth_andrea","mouthtransform":"0,-1.53","eyebrows":null,"hair":null,"eyeaccessory":"","faceaccessory":"","hairaccessory":"","facephoto":"","hairphoto":""}

@@ -1,0 +1,1 @@
+[{"preview":"Borders/Border_1","content":"LFPM_Freeform_Border_1"},{"preview":"Borders/Border_3","content":"LFPM_Freeform_Border_3"},{"preview":"Borders/Border_4","content":"LFPM_Freeform_Border_4"},{"preview":"Borders/Border_5","content":"LFPM_Freeform_Border_5"},{"preview":"Borders/Border_6","content":"LFPM_Freeform_Border_6"},{"preview":"Borders/Border_0","content":"empty"}]
